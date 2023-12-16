@@ -17,7 +17,7 @@ I intentionally kept this project at the "beginner's level," making it a breeze 
 
 ## Explore the Project:
 - [Live Project](https://sanket-santoki.github.io/CODSOFT_Intern_Simple_LandingPage/)
-- [GitHub Profile](https://github.com/sanket-santoki))
+- [GitHub Profile](https://github.com/sanket-santoki)
 
 # Credits:
 - Developed by Sanket Santoki
