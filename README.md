@@ -1,6 +1,8 @@
 # CODSOFT_Intern_Simple_LandingPage
 Welcome to my CODSOFT internship project repository! 🚀 This repository showcases a sleek and interactive landing page crafted with HTML and CSS. 
 
+![app](assets/image1.png) 
+
 ## Key Features:
 - Responsive Design 📱
 - Interactive Elements 🎨
